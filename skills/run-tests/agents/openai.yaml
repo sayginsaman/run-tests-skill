@@ -1,0 +1,5 @@
+interface:
+  display_name: "Run Tests"
+  short_description: "QA the latest Claude Code session with Computer Use"
+policy:
+  allow_implicit_invocation: true
